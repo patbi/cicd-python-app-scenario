@@ -7,7 +7,6 @@ WORKDIR /app
 # Copy the current directory contents into the container at /app
 COPY . /app
 
-
 # Install any needed packages specified in requirements.txt
 RUN pip install flask
 
@@ -15,4 +14,4 @@ RUN pip install flask
 EXPOSE 5000
 
 # Run app.py when the container launches
-CMD [ "python", "app.py" ]
+CMD ["python", "app.py"]
