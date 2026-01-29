@@ -2,7 +2,10 @@
 FROM python:3.9-slim
 
 # Install any needed packages specified in requirements.txt
-RUN pip install flask
+COPY requirements.txt .
+
+# Install the Python dependencies
+RUN pip install --no-cache-dir -r requirements.txt
 
 LABEL MAINTAINER=biyagapatrick@gmail.com
 LABEL version=1.0
