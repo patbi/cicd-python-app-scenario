@@ -1,7 +1,2 @@
 [![CI/CD for Dockerized Flask App](https://github.com/patbi/cicd-python-app-scenario/actions/workflows/cicd.yml/badge.svg)](https://github.com/patbi/cicd-python-app-scenario/actions/workflows/cicd.yml)
 
-
-[![CI/CD for Dockerized Flask App](https://github.com/patbi/cicd-python-app-scenario/actions/workflows/cicd.yml/badge.svg)](https://github.com/patbi/cicd-python-app-scenario/actions/workflows/cicd.yml)
-
-
-[![CI/CD for Dockerized Flask App](https://github.com/patbi/cicd-python-app-scenario/actions/workflows/cicd.yml/badge.svg)](https://github.com/patbi/cicd-python-app-scenario/actions/workflows/cicd.yml)
