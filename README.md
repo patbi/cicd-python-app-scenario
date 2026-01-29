@@ -44,6 +44,6 @@ Your cicd-python-app-scenario instance is now running!
 *   **API:** `http://localhost:`
 *   **Web App:** `http://localhost:`
 
-For more detailed setup and configuration, please see our [**Full Documentation**](./docs/README.md).
+For more detailed setup and configuration, please see the [**Full Documentation**](./docs/README.md).
 
 <br/>
